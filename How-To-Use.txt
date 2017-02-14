@@ -1,0 +1,8 @@
+
+
+1. Download JS (getClientQueryString) file and add reffernce in the project.
+
+2. You are done. Simply comsume this add-on by this method. Usage Example
+
+	 queryString('NameOfQuerstring');
+
